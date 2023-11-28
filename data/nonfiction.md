@@ -45,3 +45,11 @@
 | The Story of My Life | 1903 | Helen Keller |
 | The Autobiography of Eleanor Roosevelt | 1961 | Eleanor Roosevelt |
 | Leading Lives That Matter | 2006 | Mark R. Schwehn |
+| The Autobiography of Andrew Carnegie | 1920 | Andrew Carnegie |
+| The Confessions of St. Augustine | 400 | Augustine of Hippo |
+| The Collapse of Complex Societies | 1988 | Joseph Tainter |
+| The Rise and Fall of the Great Powers | 1987 | Paul Kennedy |
+| The Lessons of History | 1968 | Will Durant |
+| The Story of Philosophy | 1926 | Will Durant |
+| The Story of Civilization | 1935 | Will Durant |
+| The Collapse of the Third Republic | 1969 | William L. Shirer |
