@@ -31,5 +31,3 @@ Streaming them will be my attempt to prove that I have engaged with these pieces
 Feel free to make a pull request if you have any suggestions. I'm always looking for new books to read.
 
 ### [Table](../README.md)
-
-
