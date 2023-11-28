@@ -17,3 +17,7 @@
 | Real and Complex Analysis | 1987 | Walter Rudin |
 | Analysis II | 2006 | Terence Tao |
 | An Epsilon of Room Real Analysis | 2010 | Terence Tao |
+| Principia Mathematica | 1910 | Alfred North Whitehead |
+| The Road to Reality | 2004 | Roger Penrose |
+| Process and Reality | 1929 | Alfred North Whitehead |
+| The Principia | 1687 | Isaac Newton |

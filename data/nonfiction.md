@@ -55,3 +55,19 @@
 | The Collapse of the Third Republic | 1969 | William L. Shirer |
 | The Phenomology of Mind | 1807 | Georg Wilhelm Friedrich Hegel |
 | The Phenomenology of Spirit | 1807 | Georg Wilhelm Friedrich Hegel |
+| The World as Will and Representation | 1818 | Arthur Schopenhauer |
+| The Critique of Pure Reason | 1781 | Immanuel Kant |
+| The Critique of Practical Reason | 1788 | Immanuel Kant |
+| The Critique of Judgement | 1790 | Immanuel Kant |
+| Tractus Logico-Philosophicus | 1921 | Ludwig Wittgenstein |
+| Philosophical Investigations | 1953 | Ludwig Wittgenstein |
+| Birth of Tragedy | 1872 | Friedrich Nietzsche |
+| Beyond Good and Evil | 1886 | Friedrich Nietzsche |
+| Being and Time | 1927 | Martin Heidegger |
+| The History of Sexuality | 1976 | Michel Foucault |
+| The Order of Things | 1966 | Michel Foucault |
+| The Archaeology of Knowledge | 1969 | Michel Foucault |
+| The Birth of Biopolitics | 2004 | Michel Foucault |
+| The History of Madness | 1961 | Michel Foucault |
+| Power/Knowledge | 1980 | Michel Foucault |
+| Sokal Hoax | 1996 | Alan Sokal |
