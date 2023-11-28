@@ -26,6 +26,10 @@ I plan on streaming myself reading them on my youtube channel, found [here](http
 
 Streaming them will be my attempt to prove that I have engaged with these pieces of literature in good faith and have consumed everything they have had to say.
 
+#### Scheduling Preferences
+
+I will try to shake up the genre of the books I read so its not one type of thing all the time. You get tired of mathematics after the second textbook...
+
 ### Contributions
 
 Feel free to make a pull request if you have any suggestions. I'm always looking for new books to read.
