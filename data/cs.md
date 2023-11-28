@@ -9,3 +9,5 @@
 | The Rust Programming Language | 2018 | Steve Klabnik |
 | The Linux Programming Interface | 2010 | Michael Kerrisk |
 | CSS: The Missing Manual | 2015 | David Sawyer McFarland |
+| HTML: The Missing Manual | 2013 | Matthew MacDonald |
+| JavaScript: The Definitive Guide | 2020 | David Flanagan |

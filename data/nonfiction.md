@@ -44,4 +44,4 @@
 | The Narrative of the Life of Frederick Douglass | 1845 | Frederick Douglass |
 | The Story of My Life | 1903 | Helen Keller |
 | The Autobiography of Eleanor Roosevelt | 1961 | Eleanor Roosevelt |
-| 
+| Leading Lives That Matter | 2006 | Mark R. Schwehn |
