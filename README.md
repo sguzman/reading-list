@@ -7,3 +7,4 @@
 The History of the Peloponnesian War | 431 BC | Thucydides | Penguin Classics | [📘](https://www.goodreads.com/book/show/13746.The_History_of_the_Peloponnesian_War) |
 | The Republic | 380 BC | Plato | Penguin Classics | [📘](https://www.goodreads.com/book/show/30289.The_Republic) |
 | The Prince | 1532 | Niccolò Machiavelli | Penguin Classics | [📘](https://www.goodreads.com/book/show/1232.The_Prince) |
+| The Symposium | 381 BC | Plato | Penguin Classics | [📘](https://www.goodreads.com/book/show/81779.The_Symposium) |
