@@ -53,3 +53,5 @@
 | The Story of Philosophy | 1926 | Will Durant |
 | The Story of Civilization | 1935 | Will Durant |
 | The Collapse of the Third Republic | 1969 | William L. Shirer |
+| The Phenomology of Mind | 1807 | Georg Wilhelm Friedrich Hegel |
+| The Phenomenology of Spirit | 1807 | Georg Wilhelm Friedrich Hegel |
